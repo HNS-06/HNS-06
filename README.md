@@ -222,7 +222,7 @@
 ## `$ cat trophies.md`
 
 <p align="center">
-  <img src="https://stats.quine.sh/HNS-06/github?theme=dark" alt="GitHub Trophies" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HNS-06&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF6B2B&icon_color=FF6B2B&text_color=F0F6FC&border_color=FF6B2B&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" width="95%" />
 </p>
 ---
 
