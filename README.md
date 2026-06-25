@@ -222,7 +222,7 @@
 ## `$ cat trophies.md`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HNS-06&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://stats.quine.sh/HNS-06/github?theme=dark" alt="GitHub Trophies" width="95%" />
 </p>
 ---
 
