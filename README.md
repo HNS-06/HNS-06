@@ -222,9 +222,8 @@
 ## `$ cat trophies.md`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HNS-06&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=7&title_color=FF6B2B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HNS-06&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
-
 ---
 
 ## `$ cat activity-graph.md`
