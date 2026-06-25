@@ -2,8 +2,8 @@ name: 🐍 Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:        # lets you trigger it manually from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -15,23 +15,16 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate github-contribution-grid-snake (light)
-        uses: Platane/snk/svg-only@v3
+      - name: Generate all snake outputs
+        uses: Platane/snk@v3
         with:
           github_user_name: HNS-06
-          outputs: dist/github-contribution-grid-snake.svg?color_snake=FF6B2B&color_dots=#0D1117,#1A1F2E,#FF6B2B,#FF8C55,#FF4500
-
-      - name: Generate github-contribution-grid-snake (dark)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: HNS-06
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=FF6B2B&color_dots=#0D1117,#1A1F2E,#FF6B2B,#FF8C55,#FF4500
-
-      - name: Generate github-contribution-grid-snake (gif dark)
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: HNS-06
-          outputs: dist/ocean.gif?color_snake=00D4FF&color_dots=#0D1117,#1A1F2E,#00D4FF,#00A8CC,#007A99
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=FF6B2B&color_dots=#0D1117,#1A1F2E,#FF6B2B,#FF8C55,#FF4500
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=FF6B2B&color_dots=#0D1117,#1A1F2E,#FF6B2B,#FF8C55,#FF4500
+            dist/ocean.gif?color_snake=00D4FF&color_dots=#0D1117,#1A1F2E,#00D4FF,#00A8CC,#007A99
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
