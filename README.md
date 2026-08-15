@@ -290,7 +290,7 @@
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=HNS-06&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF6B2B&icon_color=FF6B2B&text_color=F0F6FC&border_color=FF6B2B&hide_border=false" height="170" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.demolab.com/?user=HNS-06&theme=dark&background=0D1117&ring=FF6B2B&fire=FF6B2B&currStreakLabel=FF6B2B&sideLabels=00D4FF&dates=F0F6FC&border=FF6B2B" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=HNS-06&theme=dark&background=0D1117&ring=FF6B2B&fire=FF6B2B&currStreakLabel=FF6B2B&sideLabels=00D4FF&dates=F0F6FC&border=FF6B2B" height="170" />
 </p>
 
 <p align="center">
