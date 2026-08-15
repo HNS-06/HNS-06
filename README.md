@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1F2E,100:FF6B2B&height=180&section=header&text=Harinarayan%20S&fontSize=52&fontColor=F0F6FC&fontAlignY=55&desc=Software%20Dev%20%7C%20App%20Dev%20%7C%20Hardware%20Hacker%20%7C%20AI%20Explorer&descAlignY=78&descSize=16&descColor=00D4FF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:1A1F2E,100:FF6B2B&height=180&section=header&text=Harinarayan%20S&fontSize=52&fontColor=F0F6FC&fontAlignY=55&desc=Software%20Dev%20%7C%20App%20Dev%20%7C%20Hardware%20Hacker%20%7C%20Cybersecurity%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=78&descSize=16&descColor=00D4FF&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=FF6B2B&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Harinarayan+S+%7C+HNS-06;%24+stack+%E2%86%92+React+%7C+Flutter+%7C+Firebase+%7C+MongoDB;%24+hardware+%E2%86%92+ESP32+%7C+ESP8266+%7C+Arduino+UNO;%24+mode+%E2%86%92+Building+startup-ready+apps+%2B+AI+testing;%24+status+%E2%86%92+Open+to+collab+%7C+Always+learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=FF6B2B&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Harinarayan+S+%7C+HNS-06;%24+stack+%E2%86%92+React+%7C+Flutter+%7C+Firebase+%7C+MongoDB;%24+hardware+%E2%86%92+ESP32+%7C+ESP8266+%7C+Arduino+UNO;%24+security+%E2%86%92+Pentesting+%7C+Vuln+Research+%7C+Tool+Building;%24+mode+%E2%86%92+Building+startup-ready+apps+%2B+AI+testing;%24+status+%E2%86%92+Open+to+collab+%7C+Always+learning" alt="Typing SVG" />
   </a>
 </p>
 
@@ -52,16 +52,17 @@
 
 ## `$ cat about.txt`
 
-> Student builder, hardware tinkerer, and vibe coder turning ideas into real products. I blend electrical engineering fundamentals with modern software stacks to build apps, test AI models, and prototype hardware systems. Currently running **Aurovex Build** — a self-startup focused on building startup-potential applications and exploring the bleeding edge of AI.
+> Student builder, hardware tinkerer, cybersecurity enthusiast, and vibe coder turning ideas into real products. I blend electrical engineering fundamentals with modern software stacks to build apps, test AI models, research security tooling, and prototype hardware systems. Currently running **Aurovex Build** — a self-startup focused on building startup-potential applications — while also contributing to **Threadbare** (cybersecurity tool building & testing) and **Graycode** (AI model research & testing).
 
 ```bash
 {
-  ROLE       : "Software Dev | App Dev | Hardware Dev | AI Tester"
+  ROLE       : "Software Dev | App Dev | Hardware Dev | Cybersecurity Enthusiast | AI Tester"
   EXPERIENCE : "2 years"
   DOMAIN     : "Electrical & Electronics Engineering"
   STACK      : ["React", "Flutter", "Firebase", "MongoDB", "HTML/CSS/JS"]
   HARDWARE   : ["ESP32", "ESP32-C3 Mini", "ESP8266", "Arduino UNO"]
-  OPEN_TO    : ["Mobile App Dev", "Full Stack", "WebApp Dev", "Hardware Projects"]
+  SECURITY   : ["Vulnerability Research", "Pentesting Basics", "Security Tool Dev"]
+  OPEN_TO    : ["Mobile App Dev", "Full Stack", "WebApp Dev", "Hardware Projects", "Cybersecurity Projects"]
 }
 ```
 
@@ -84,6 +85,15 @@
   <img src="https://skillicons.dev/icons?i=arduino,vscode,git,github,figma&theme=dark" />
 </p>
 
+**Cybersecurity**
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-FF6B2B?style=flat-square&logo=wireshark&logoColor=F0F6FC" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-1A1F2E?style=flat-square&color=1A1F2E&labelColor=00D4FF&logoColor=0D1117" />
+  <img src="https://img.shields.io/badge/Nmap-FF6B2B?style=flat-square&logoColor=F0F6FC" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=FF6B2B" />
+  <img src="https://img.shields.io/badge/Metasploit-1A1F2E?style=flat-square&color=0D1117&labelColor=FF6B2B&logoColor=F0F6FC" />
+</p>
+
 ---
 
 ## `$ cat specialization.md`
@@ -94,6 +104,8 @@
   <img src="https://img.shields.io/badge/Hardware%20Prototyping-1A1F2E?style=flat-square&color=1A1F2E&labelColor=00D4FF&logoColor=F0F6FC" />
   &nbsp;
   <img src="https://img.shields.io/badge/App%20Development-FF6B2B?style=flat-square&logoColor=F0F6FC" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF&logoColor=F0F6FC" />
   &nbsp;
   <img src="https://img.shields.io/badge/Data%20Dashboards-1A1F2E?style=flat-square&color=0D1117&labelColor=FF6B2B&logoColor=F0F6FC" />
   &nbsp;
@@ -110,6 +122,7 @@
 |---|---|---|
 | 📱 App Development | ⭐⭐⭐⭐ | Flutter cross-platform apps, Firebase backend |
 | 🌐 Web Development | ⭐⭐⭐⭐ | React, HTML/CSS/JS, responsive UI |
+| 🛡️ Cybersecurity | ⭐⭐⭐ | Vulnerability research, security tool building & testing |
 | 🤖 AI Model Testing | ⭐⭐⭐⭐ | Claude Code, Codex, DeepSeek, Opencode |
 | 🔌 Hardware Dev | ⭐⭐⭐ | ESP32, ESP8266, Arduino, embedded C |
 | 🗄️ Database / Backend | ⭐⭐⭐ | MongoDB, Firebase, Firestore |
@@ -132,24 +145,74 @@
 
 </details>
 
+<details open>
+<summary><strong>🛡️ Threadbare — Cybersecurity Tool Building & Testing</strong></summary>
+<br>
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Python, Wireshark, Burp Suite, Nmap, Kali Linux |
+| **What it does** | Builds and tests security tooling — vulnerability scanning utilities, network analysis scripts, and pentesting workflows |
+| **My Role** | Cybersecurity Tool Builder & Tester — tool development, testing, and security research |
+| **Status** | 🟠 Active |
+
+</details>
+
+<details open>
+<summary><strong>🤖 Graycode — AI Model Research & Testing</strong></summary>
+<br>
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Claude Code, Codex, DeepSeek, Opencode |
+| **What it does** | Researches and benchmarks emerging AI models, testing capabilities, prompt engineering, and real-world use cases |
+| **My Role** | AI Model Researcher & Tester |
+| **Status** | 🟠 Active |
+
+</details>
+
 ---
 
 ## `$ cat experience.log`
 
-### 🟠 `[Jun 2025 – Present]` — **Aurovex Build** · Software Developer *(Self Startup)*
+### 🟠 `[Jun 2025 – Present]` — **Aurovex Build** · Software Engineer *(Self Startup Laboratory)*
 
 - 🔨 Built real-time applications from concept to deployment
-- 🤖 Researched and tested emerging AI models including Claude Code, Codex, and DeepSeek
-- 🧪 Conducted application and software testing across multiple platforms
-- 🔌 Integrated hardware modules (ESP32, Arduino) with software interfaces
 - 📱 Developed cross-platform mobile apps using Flutter and Firebase
+- 🔌 Integrated hardware modules (ESP32, Arduino) with software interfaces
+- 🧪 Conducted application and software testing across multiple platforms
 
 <p>
   <img src="https://img.shields.io/badge/React-FF6B2B?style=flat-square&logo=react&logoColor=F0F6FC" />
   <img src="https://img.shields.io/badge/Flutter-00D4FF?style=flat-square&logo=flutter&logoColor=0D1117" />
   <img src="https://img.shields.io/badge/Firebase-FF6B2B?style=flat-square&logo=firebase&logoColor=F0F6FC" />
   <img src="https://img.shields.io/badge/ESP32-1A1F2E?style=flat-square&logoColor=00D4FF" />
+</p>
+
+### 🟢 `[Startup Laboratory]` — **Threadbare** · Cybersecurity Tool Building & Testing
+
+- 🛡️ Built and tested cybersecurity tools for vulnerability scanning and network analysis
+- 🕵️ Conducted hands-on security testing and research
+- 🧰 Worked with Wireshark, Burp Suite, Nmap, and Kali Linux
+- 📄 Documented findings and testing workflows
+
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=flat-square&color=0D1117&labelColor=00D4FF&logoColor=F0F6FC" />
+  <img src="https://img.shields.io/badge/Wireshark-FF6B2B?style=flat-square&logo=wireshark&logoColor=F0F6FC" />
+  <img src="https://img.shields.io/badge/Nmap-1A1F2E?style=flat-square&logoColor=00D4FF" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-FF6B2B?style=flat-square&logo=kalilinux&logoColor=F0F6FC" />
+</p>
+
+### 🔵 `[Startup Laboratory]` — **Graycode** · AI Model Research & Testing
+
+- 🤖 Researched and tested emerging AI models including Claude Code, Codex, and DeepSeek
+- 🧠 Benchmarked model capabilities and explored prompt engineering techniques
+- 📊 Analyzed model outputs for real-world application readiness
+
+<p>
   <img src="https://img.shields.io/badge/AI%20Testing-FF6B2B?style=flat-square&logoColor=F0F6FC" />
+  <img src="https://img.shields.io/badge/Claude%20Code-1A1F2E?style=flat-square&logo=anthropic&logoColor=00D4FF" />
+  <img src="https://img.shields.io/badge/DeepSeek-FF6B2B?style=flat-square&logoColor=F0F6FC" />
 </p>
 
 ---
@@ -163,7 +226,8 @@
 | 🎓 Mobile App Development | Certified in Mobile App Development |
 | 🎨 UI/UX Designing | Certified in UI/UX Designing |
 | 🚀 Founded Aurovex Build | Self-started a software + hardware startup at student level |
-| 🤖 Multi-model AI Tester | Hands-on experience with Claude Code, Codex, DeepSeek, Opencode |
+| 🛡️ Cybersecurity Tool Builder | Built and tested security tooling at Threadbare |
+| 🤖 Multi-model AI Tester | Hands-on experience with Claude Code, Codex, DeepSeek, Opencode at Graycode |
 | 🔌 Hardware Hacker | Built projects with ESP32, C3 Mini, ESP8266, Arduino UNO |
 | 🌐 Live Portfolio | Deployed personal portfolio at hns-portfolio.vercel.app |
 
@@ -205,12 +269,28 @@
 
 ---
 
+## `$ cat cybersecurity-toolkit.md`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-FF6B2B?style=for-the-badge&logo=wireshark&logoColor=F0F6FC" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Nmap-00D4FF?style=for-the-badge&logoColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Burp%20Suite-1A1F2E?style=for-the-badge&color=1A1F2E&labelColor=FF6B2B&logoColor=F0F6FC" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Kali%20Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=FF6B2B" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Metasploit-FF6B2B?style=for-the-badge&logoColor=F0F6FC" />
+</p>
+
+---
+
 ## `$ cat github-stats.md`
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HNS-06&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF6B2B&icon_color=FF6B2B&text_color=F0F6FC&border_color=FF6B2B&hide_border=false" height="170" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HNS-06&theme=dark&background=0D1117&ring=FF6B2B&fire=FF6B2B&currStreakLabel=FF6B2B&sideLabels=00D4FF&dates=F0F6FC&border=FF6B2B" height="170" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=HNS-06&theme=dark&background=0D1117&ring=FF6B2B&fire=FF6B2B&currStreakLabel=FF6B2B&sideLabels=00D4FF&dates=F0F6FC&border=FF6B2B" height="170" />
 </p>
 
 <p align="center">
@@ -224,6 +304,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HNS-06&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF6B2B&icon_color=FF6B2B&text_color=F0F6FC&border_color=FF6B2B&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" width="95%" />
 </p>
+
 ---
 
 ## `$ cat activity-graph.md`
@@ -261,6 +342,7 @@
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/HNS-06/HNS-06/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 ---
 
 ## `$ cat current-focus.yaml`
@@ -271,15 +353,19 @@ current_focus:
     - Testing and benchmarking new AI models (Claude, Codex, DeepSeek)
     - Advanced Flutter patterns and Firebase integrations
     - Embedded systems programming for ESP32 ecosystem
+    - Offensive & defensive cybersecurity fundamentals
 
   building:
     - Startup-potential applications under Aurovex Build
+    - Cybersecurity tools and testing workflows under Threadbare
+    - AI model research and benchmarking under Graycode
     - Real-time hardware-software integrated projects
     - Cross-platform mobile apps with Flutter
 
   exploring:
     - AI model capabilities and prompt engineering
     - IoT solutions using ESP32 and ESP8266
+    - Vulnerability research and penetration testing
     - UI/UX design systems for mobile-first apps
 
   open_to:
@@ -287,6 +373,7 @@ current_focus:
     - Software Developer positions
     - Full Stack Developer opportunities
     - Web App Developer contracts
+    - Cybersecurity project collaborations
     - Hardware project collaborations
 ```
 
